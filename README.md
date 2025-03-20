@@ -1,6 +1,6 @@
 # 📚 Databricks Certified Data Engineer Professional Course
 
-![Course Overview Image](https://github.com/rileha/databricks_de_practice_football/blob/main/Course%20Material/2%20-%20Data%20Modeling/Screenshot%202025-03-20%20at%2010.20.06.png?raw=true)
+![Image Alt Text](https://github.com/rileha/Databricks-Certified-Data-Engineer-Professional/blob/main/Screenshot%202025-03-20%20at%2010.20.06.png?raw=true)
 
 Welcome to the **Databricks Certified Data Engineer Professional** course! In this course, you will learn to work with **Azure Databricks**, including topics such as data modeling, data processing, performance improvement, tooling, security, governance, and testing/deployment. Below is the structured breakdown of the content covered in the course.
 
