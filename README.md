@@ -1,10 +1,12 @@
 # 📚 Databricks Certified Data Engineer Professional Course
 
+![Course Overview Image](https://github.com/rileha/databricks_de_practice_football/blob/main/Course%20Material/2%20-%20Data%20Modeling/Screenshot%202025-03-20%20at%2010.20.06.png?raw=true)
+
 Welcome to the **Databricks Certified Data Engineer Professional** course! In this course, you will learn to work with **Azure Databricks**, including topics such as data modeling, data processing, performance improvement, tooling, security, governance, and testing/deployment. Below is the structured breakdown of the content covered in the course.
 
 ---
 
-## 🗂️ **(Clone) 2 - Data Modeling**
+## 🗂️ **2 - Data Modeling**
 
 ### **2.1 - Multiplex Bronze**  
 📖 A notebook focused on understanding the **Multiplex Bronze** data model in Databricks.
@@ -23,7 +25,7 @@ Welcome to the **Databricks Certified Data Engineer Professional** course! In th
 
 ---
 
-## 🗂️ **(Clone) 3 - Data Processing**
+## 🗂️ **3 - Data Processing**
 
 ### **3.1 - Change Data Capture (CDC)**  
 📖 Learn how to perform **Change Data Capture (CDC)** to track and capture data changes in real-time.
@@ -42,7 +44,7 @@ Welcome to the **Databricks Certified Data Engineer Professional** course! In th
 
 ---
 
-## 🗂️ **(Clone) 4 - Improving Performance**
+## 🗂️ **4 - Improving Performance**
 
 ### **4.1 - Partitioning Delta Lake Tables**  
 📖 Learn how to partition **Delta Lake Tables** to improve query performance and manage large datasets efficiently.
@@ -52,7 +54,7 @@ Welcome to the **Databricks Certified Data Engineer Professional** course! In th
 
 ---
 
-## 🗂️ **(Clone) 5 - Databricks Tooling**
+## 🗂️ **5 - Databricks Tooling**
 
 ### **5.2 - Multi-Task Jobs**  
 📖 Implement **multi-task jobs** to automate workflows and manage complex pipelines effectively.
@@ -62,7 +64,7 @@ Welcome to the **Databricks Certified Data Engineer Professional** course! In th
 
 ---
 
-## 🗂️ **(Clone) 6 - Security and Governance**
+## 🗂️ **6 - Security and Governance**
 
 ### **6.1 - Propagating Deletes**  
 📖 Implement strategies for **propagating deletes** in Delta tables to maintain data integrity while deleting records.
@@ -72,7 +74,7 @@ Welcome to the **Databricks Certified Data Engineer Professional** course! In th
 
 ---
 
-## 🗂️ **(Clone) 7 - Testing and Deployment**
+## 🗂️ **7 - Testing and Deployment**
 
 ### **7.1 - Relative Imports**  
 📖 Learn how to manage **relative imports** in Databricks notebooks to ensure modular and reusable code for better maintainability.
@@ -96,4 +98,4 @@ Feel free to explore the materials, experiment with the code, and contribute! �
 ---
 
 💡 **Want to learn more?**  
-Check out the official documentation for **Databricks** and start building your own **Lakehouse Architecture**!  
+Check out the official documentation for **Databricks** and start building your own **Lakehouse Architecture**!
