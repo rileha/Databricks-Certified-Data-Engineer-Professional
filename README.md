@@ -1,8 +1,8 @@
 # 📚 Databricks Certified Data Engineer Professional Course
 
-![Databricks Course Image](https://github.com/rileha/Databricks-Certified-Data-Engineer-Professional/blob/main/Screenshots/Screenshot%202025-03-20%20at%2009.11.29.png?raw=true)
+Welcome to my prep for the **Databricks Certified Data Engineer Professional** course! In this course, I learned learn to work with **Azure Databricks**, including topics such as data modeling, data processing, performance improvement, tooling, security, governance and testing/deployment. Below is the structured breakdown of the content covered in the course.
 
-Welcome to the **Databricks Certified Data Engineer Professional** course! In this course, you will learn to work with **Azure Databricks**, including topics such as data modeling, data processing, performance improvement, tooling, security, governance, and testing/deployment. Below is the structured breakdown of the content covered in the course.
+![Databricks Course Image](https://github.com/rileha/Databricks-Certified-Data-Engineer-Professional/blob/main/Screenshots/Screenshot%202025-03-20%20at%2010.20.06.png?raw=true)
 
 ---
 
@@ -89,13 +89,3 @@ Welcome to the **Databricks Certified Data Engineer Professional** course! In th
 - **SQL**  
 
 ---
-
-## 🎯 Conclusion  
-This course successfully prepares you for the **Databricks Certified Data Engineer Professional** exam. By the end, you'll have hands-on experience with key concepts like **data modeling**, **real-time data processing**, **performance tuning**, and **security** in a cloud-based big data environment.
-
-Feel free to explore the materials, experiment with the code, and contribute! 🚀
-
----
-
-💡 **Want to learn more?**  
-Check out the official documentation for **Databricks** and start building your own **Lakehouse Architecture**!
